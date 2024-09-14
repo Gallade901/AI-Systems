@@ -1,0 +1,9 @@
+#Кварталы Маши
+Иметь_строителя value Masha
+Player
+quareter
+character
+
+my_character(X)
+list_character()
+can_built()
