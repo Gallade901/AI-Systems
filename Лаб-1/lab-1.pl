@@ -14,6 +14,7 @@ color(pontiff, blue).
 color(merchant, green).
 color(condottiere, red).
 
+
 %Игроки
 player(masha).
 player(gleb).
